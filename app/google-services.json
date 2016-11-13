@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "352613497995",
+    "firebase_url": "https://covoiturage-38574.firebaseio.com",
+    "project_id": "covoiturage-38574",
+    "storage_bucket": "covoiturage-38574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352613497995:android:e162aaa6b29ffaf0",
+        "android_client_info": {
+          "package_name": "covoiturage.tn.enis.covoituragesfax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352613497995-3s85nk6mudsqe71mub9qjb39dgul74oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwskbPoqmaN63w9vBMJKDctsjs6_XC68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
