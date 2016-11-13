@@ -63,10 +63,28 @@
                 </RelativeLayout>
 
                 <Button
-                    android:id="@+id/btn"
-                    android:layout_width="match_parent"
+                    android:id="@+id/email_create_account_button"
+                    android:layout_width="194dp"
+                    android:layout_height="match_parent"
+                    android:text="create account"
+
+                    android:onClick="onClick (AcceuilActivity)" />
+
+                <Button
+                    android:id="@+id/email_sign_in_button"
                     android:layout_height="wrap_content"
-                    android:text="Click"/>
+                    android:text="sign in"
+                    android:onClick="onClick (AcceuilActivity)"
+                    android:layout_width="194dp" />
+
+                <Button
+                    android:id="@+id/sign_out_button"
+                    android:layout_height="wrap_content"
+                    android:text="sign out"
+
+                    android:onClick="onClick (AcceuilActivity)"
+                    android:layout_width="wrap_content" />
+
             </LinearLayout>
         </ScrollView>
     </LinearLayout>
